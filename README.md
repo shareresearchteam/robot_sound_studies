@@ -4,8 +4,7 @@ This repository contains supplementary material, such as survey stimuli, for the
 ```
   Paper Folder
       Study Folder
-          Stimuli Folder
-          Other Materials Folder
+          Stimuli Videos
 ```
 
 # License
