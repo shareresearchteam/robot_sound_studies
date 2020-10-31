@@ -4,7 +4,7 @@ This repository contains supplementary material, such as survey stimuli, for the
 ```
   Paper Folder
       Study Folder
-          Stimuli Videos
+          Stimulus Videos
 ```
 
 Please enter a folder and see the README for a more detailed explanation of the folder's contents.
