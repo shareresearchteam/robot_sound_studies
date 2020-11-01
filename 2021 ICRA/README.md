@@ -2,8 +2,23 @@
 
 **This submission is currently under review.** 
 
-Each folder contains the videos used in the study or in all studies ("Common"). Stimuli videos for each study have the following naming convention:
-`SoundCondition-RobotBehavior-BehaviorNickname.mp4`
-For instance, a video with transformative sound may read `TransformedSound-BehaviorA-Something.mp4`. For more explanation of the study design and stimuli, please see Section III (Methods) of the associated paper. 
+This folder contains subfolders for each of the five studies presented in the paper, as well as a `Common` folder for the volume calibration video shown at the beginning of each study (`./Common/Volumne-Calibration.mp4`) and the common introductory stimulus video shown before study-specific stimulus videos (`./Common/Common-Cassie-Stimulus.mp4.mp4`). We recommend that you watch the volume calibration video and follow the instructions within before viewing the other study stimulus videos. 
 
-Before viewing the stimuli, we recommend watching `Common/Volume-Calibration.mp4` to tune your device's volume to an appropriate level. 
+The five study folders contain nine videos each. One video is for the manipulation check (named according to the convention: `./StudyN-ROBOTNAME/ManipulationCheck-N-ROBOTNAME.mp4`) presented near the end of the study, where participants would indicate if the robots made the same or different noises. The remaining eight videos are the stimulus videos (named according to the convention: `SoundCondition-RobotBehavior-BehaviorNickname.mp4`), created based on the 2x4 study design with factors of *sound condition* (original vs. transformed) and *robot behavior* (A, B, C, and D). Study participants viewed the videos in counterbalanced order so that they would not see videos of the same sound condition or the same robot behavior twice in a row. 
+
+The study stimulus videos were created by:
+1. `Study1-Cozmo`
+    - Recordings completed by Lilian Chan.
+    - Transformative sounds created by Anki (unknown process).
+2. `Study2-NAO`
+    - Recordings completed by Naomi Fitter.
+    - Transformative sounds created by Samuel Brimhall using Audacity and Ableton Live.
+3. `Study3-TurtleBot`
+    - Recordings completed by Brian Zhang.
+    - Transformative sounds created by Nick Stargu using Logic Pro.
+4. `Study4-Baxter`
+    - Recordings completed by Mayumi Mohan.
+    - Transformative sounds created by Nick Stargu using Logic Pro.
+5. `Study5-UR5e`
+    - Recordings completed by Brian zhang.
+    - Transformative sounds created by Nick Stargu using Logic Pro.
