@@ -20,5 +20,5 @@ The study stimulus videos were created by:
     - Recordings completed by Mayumi Mohan.
     - Transformative sounds created by Nick Stargu using Logic Pro.
 5. `Study5-UR5e`
-    - Recordings completed by Brian zhang.
+    - Recordings completed by Brian Zhang.
     - Transformative sounds created by Nick Stargu using Logic Pro.
